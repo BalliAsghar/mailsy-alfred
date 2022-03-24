@@ -1,0 +1,17 @@
+{
+  "name": "alfred-mailsy",
+  "version": "2.0.0",
+  "description": "⚡️ Quickly generate a disposable email",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BalliAsghar",
+  "license": "ISC",
+  "dependencies": {
+    "alfy": "^0.12.3",
+    "axios": "^0.26.1",
+    "open": "^8.4.0"
+  }
+}
