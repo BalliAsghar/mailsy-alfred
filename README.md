@@ -1,4 +1,5 @@
-# Mailsy workflow for Alfred
+# Mailsy workflow for Alfred 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-purple.svg)](https://www.paypal.me/SalAldana)
 
 ⚡️ Quickly generate a disposable email
 
