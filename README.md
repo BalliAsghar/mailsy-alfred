@@ -18,7 +18,7 @@
 
 Type `gen` to generate a new email address. Hit `Enter` to copy the address to your clipboard.
 
-Type `mail` to see all the emails you have have received. Hit `Enter` to open the specified email in your default browser.
+Type `mail` to see all the emails you have received. Hit `Enter` to open the specified email in your default browser.
 
 Type `del` to delete the email account.
 
