@@ -22,7 +22,7 @@ Type `mail` to see all the emails you have received. Hit `Enter` to open the spe
 
 Type `del` to delete the email account.
 
-Type `abt` to see the account information. eg. email address, date of creation. Hit `Enter` to to copy the address to your clipboard.
+Type `abt` to see the account information. eg. email address, date of creation. Hit `Enter` to copy the address to your clipboard.
 
 ## Mailsy for Command Line
 
