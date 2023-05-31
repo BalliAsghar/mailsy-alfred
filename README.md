@@ -1,5 +1,4 @@
 # Mailsy workflow for Alfred 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-purple.svg)](https://www.paypal.me/BalliAsghar)
 
 ⚡️ Quickly generate a disposable email
 
@@ -27,10 +26,6 @@ Type `abt` to see the account information. eg. email address, date of creation. 
 ## Mailsy for Command Line
 
 if you want cli version of mailsy, you can get [here](https://github.com/BalliAsghar/Mailsy)
-
-## Donate
-
-if you like this workflow, you can donate to me by [clicking here](https://www.paypal.me/BalliAsghar)
 
 ## License
 
